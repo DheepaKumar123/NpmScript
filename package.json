@@ -1,0 +1,46 @@
+{
+
+  "name": "npm-script",
+
+  "version": "14.2.26",
+
+  "description": "Npm package of JavaScript.",
+
+  "repository": {
+
+    "type": "git",
+
+    "url": "git+https://github.com/DheepaKumar123/NpmScript.git"
+
+  },
+
+  "keywords": [
+  
+    "javascript"
+
+  ],
+
+  "author": "Dheepa Jhon",
+
+  "license": "SEE LICENSE IN README.md",
+
+  "bugs": {
+
+    "url": "https://github.com/DheepaKumar123/NpmScript/issues"
+
+  },
+
+  "homepage": "https://github.com/DheepaKumar123/NpmScript#readme",
+  
+  "files": [
+        "scripts/"
+    ],
+    "jspm": {
+        "main": false,
+        "format": "amd",
+        "registry" : "github",
+        "files": [
+            "scripts"
+               ]
+    }
+}
