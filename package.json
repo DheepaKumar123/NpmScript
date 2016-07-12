@@ -1,6 +1,6 @@
 {
 
-  "name": "npm-javascript",
+  "name": "npm-script",
 
   "version": "14.2.26",
 
@@ -10,7 +10,7 @@
 
     "type": "git",
 
-    "url": "git+https://github.com/DheepaKumar123/NpmJavaScript.git"
+    "url": "git+https://github.com/DheepaKumar123/NpmScript.git"
 
   },
 
@@ -26,7 +26,7 @@
 
   "bugs": {
 
-    "url": "https://github.com/DheepaKumar123/NpmJavaScript/issues"
+    "url": "https://github.com/DheepaKumar123/NpmScript/issues"
 
   },
 
