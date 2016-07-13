@@ -6,8 +6,8 @@
 
     ".npmignore",
 
-    "package.json",
-    "demos"
+    "package.json"
+    
 
   ]
 }
